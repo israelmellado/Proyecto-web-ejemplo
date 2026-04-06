@@ -80,3 +80,8 @@ Abre un Pull Request
 - [ ] Implementar modo oscuro
 - [ ] Añadir JavaScript interactivo
 - [ ] Deploy a Netlify/Vercel
+
+## 📞 Contacto
+- Autor: [Israel M.P.]
+- Email: israel_melli@hotmail.com
+- GitHub: israelmellado
