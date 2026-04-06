@@ -81,6 +81,17 @@ Abre un Pull Request
 - [ ] Añadir JavaScript interactivo
 - [ ] Deploy a Netlify/Vercel
 
+## ✨ Funcionalidades incluidas:
+- ✅ Cambio de color/tema - Botón que cambia entre claro/oscuro
+- ✅ Imagen que se mueve - Estrella flotante con hover 360°
+- ✅ Animaciones CSS - Fade-in, float, slide-in
+- ✅ Responsive - Se adapta a móviles
+- ✅ Efectos hover - Cards y botón interactivos
+- ✅ Gradientes modernos - Fondo dinámico
+- ✅ Glassmorphism - Efecto cristal
+- ¡feature-mejora-estilo!
+- ¡feature-añadir-js!
+
 ## 📞 Contacto
 - Autor: [Israel M.P.]
 - Email: israel_melli@hotmail.com
