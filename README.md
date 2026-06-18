@@ -3,7 +3,7 @@
 
 ## 1.  📋 Descripción del Proyecto
 
-Este es un **proyecto web de ejemplo** creado para demostrar el uso de **Git y GitHub** en un entorno colaborativo. Incluye una página web moderna con HTML5, CSS3 y diseño responsive.
+Este es un **proyecto web de ejemplo** creado para demostrar el uso de **GitHub** en un entorno colaborativo. Incluye una página web moderna con HTML5, CSS3 y diseño responsive.
 
 ## 2. **Objetivos del proyecto:**
 - ✅ Demostrar flujos de trabajo con Git
